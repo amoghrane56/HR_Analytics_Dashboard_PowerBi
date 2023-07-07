@@ -1,5 +1,6 @@
 # HR_Analytics_Dashboard_PowerBi 
 HR Analytics Dashboard - Attrition Insights
+
 The HR analytics dashboard created using Power BI is a powerful tool designed to provide comprehensive insights into various HR-related metrics and help HR professionals and managers make data-driven decisions. It consolidates and presents key HR data in a visually appealing and interactive format, enabling users to analyze workforce trends, track performance metrics, and identify areas for improvement.
 The HR analytics dashboard consists of multiple visualizations and charts, each representing different aspects of HR analytics. Here is a description of some components the HR analytics dashboard created using Power BI:
 1. KPIs
